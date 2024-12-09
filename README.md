@@ -1,7 +1,7 @@
 # Statistics
 Welcome to the Statistics repository! This repository contains a comprehensive collection of statistical tests, methods, and case studies implemented in Jupyter notebooks.
 
-Contents
+### Contents
 1. Statistical Tests
 This section includes detailed examples and practical implementations of common statistical tests:
 
