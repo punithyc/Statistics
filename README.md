@@ -2,7 +2,7 @@
 Welcome to the Statistics repository! This repository contains a comprehensive collection of statistical tests, methods, and case studies implemented in Jupyter notebooks.
 
 ### Contents
-1. Statistical Tests
+**1.** __*Statistical Tests*__
 This section includes detailed examples and practical implementations of common statistical tests:
 
 Chi-Square Tests:
