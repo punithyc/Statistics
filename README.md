@@ -27,11 +27,11 @@ This section includes detailed examples and practical implementations of common 
 * __*One-Way ANOVA:*__ Compares means across multiple groups to assess significant differences. <br>
 * __*Test for Equality of Variances:*__ Evaluates whether two or more groups have equal variances. <br>
 
-**e** __*Paired Tests:*__
+**e.** __*Paired Tests:*__
 
 * __*Paired T-Test:*__ Compares means from two related groups (e.g., pre-test and post-test measurements).
 
-**f** __*Proportion Tests:*__
+**f.** __*Proportion Tests:*__
 
 * __*One Proportion Z-Test:*__ Tests whether the sample proportion differs from a specified proportion.
 * __*Two Proportion Z-Test:*__ Compares proportions between two groups.
