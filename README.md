@@ -24,8 +24,8 @@ This section includes detailed examples and practical implementations of common 
 
 **d.** __*Analysis of Variance (ANOVA):*__ <br>
 
-*__*One-Way ANOVA:*__ Compares means across multiple groups to assess significant differences. <br>
-*__*Test for Equality of Variances:*__ Evaluates whether two or more groups have equal variances. <br>
+* __*One-Way ANOVA:*__ Compares means across multiple groups to assess significant differences. <br>
+* __*Test for Equality of Variances:*__ Evaluates whether two or more groups have equal variances. <br>
 
 __*2. Case Studies*__ <br>
 The repository features practical case studies to demonstrate real-world applications of statistical tests: <br>
